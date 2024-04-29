@@ -1,0 +1,32 @@
+D:\Projects\AquaGoDesktop\AquaGoDesktop\bin\Debug\AquaGoDesktop.exe.config
+D:\Projects\AquaGoDesktop\AquaGoDesktop\bin\Debug\AquaGoDesktop.exe
+D:\Projects\AquaGoDesktop\AquaGoDesktop\bin\Debug\AquaGoDesktop.pdb
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.csproj.AssemblyReference.cache
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmStart.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.Properties.Resources.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.csproj.GenerateResource.cache
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.csproj.CoreCompileInputs.cache
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.exe
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.pdb
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserMain.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmAdminMain.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmRegister.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserNewRefill.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserNewOrder.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserEditAccount.resources
+D:\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.csproj.SuggestedBindingRedirects.cache
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\bin\Debug\AquaGoDesktop.exe.config
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\bin\Debug\AquaGoDesktop.exe
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\bin\Debug\AquaGoDesktop.pdb
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmAdminMain.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmRegister.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmStart.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserEditAccount.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserMain.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserNewOrder.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.frmUserNewRefill.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.Properties.Resources.resources
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.csproj.GenerateResource.cache
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.exe
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.pdb
+D:\PYTHON FILES\Projects\AquaGoDesktop\AquaGoDesktop\obj\Debug\AquaGoDesktop.csprojResolveAssemblyReference.cache
